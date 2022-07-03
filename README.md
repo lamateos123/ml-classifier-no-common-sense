@@ -40,11 +40,18 @@ All shifted images are correctly classified (there are just a few examples ~30 i
 ![image](https://user-images.githubusercontent.com/94204361/177025137-a616411d-bae7-4742-ba1b-1b5b2b74eef9.png)
 ![image](https://user-images.githubusercontent.com/94204361/177025153-e56df60b-d88d-43fb-8517-d57565be1a43.png)
 
-The problem is when retesting the training set of images. The model fails when classifying some of them ...
+The problem is when **retesting the training set of images. The model fails when classifying some of them** ...
 (This also happens in the other models)
+
+Images of digit '1' classified as zero (from training set)
 
 ![image](https://user-images.githubusercontent.com/94204361/177025477-3db529b5-1c15-48e2-ad2c-80f722fc9ad7.png)
 ![image](https://user-images.githubusercontent.com/94204361/177025484-eb5ba4e2-5962-4506-ba85-e07da6c9fa3d.png)
+
+Images of digit zero classified as '1' (from training set)
+
+![image](https://user-images.githubusercontent.com/94204361/177059130-f2dc8999-9a0b-4a6e-9cd8-5af98332a663.png)
+![image](https://user-images.githubusercontent.com/94204361/177059156-65cb9f26-e629-4df4-9be3-fab62f6a0847.png)
 
 
 ### Conclusion.
