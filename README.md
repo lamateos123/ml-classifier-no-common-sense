@@ -4,7 +4,8 @@ Shows the big challenge for machine learning technologies
 
 A simple classifier for digits '0' or '1' from MNIST fails to have common sense **IF the images from the training set with '1' are shifted to the left or to the right, then the classifier fails to give the correct answer** 
 
-Here are some images from the training set (all digits are centered to the image and were correctly classified as '0's and '1's)
+Here are some images from the training set:(all digits are centered to the image)
+
 ![image](https://user-images.githubusercontent.com/94204361/176938626-9458d2f9-81e1-4759-a068-60d5abd6112d.png)
 
 
@@ -16,6 +17,12 @@ Here are some images from the training set (all digits are centered to the image
 
 - [**Add to the classifier data augmentation**] - A few shifted '1's are correctly classified
 
+Here are some images from the data augmentation:
+
+![image](https://user-images.githubusercontent.com/94204361/177024994-940ecd4e-8ae0-45e7-9c99-6ccfad1eb34f.png)
+
+A few shifted '1's are correctly classified
+
 ![image](https://user-images.githubusercontent.com/94204361/176939029-d5ccb48a-e5ff-4261-b48d-5a29a6bfba32.png)
 ![image](https://user-images.githubusercontent.com/94204361/176939142-01f73cdc-71a8-48e8-afc9-c214baa1d74e.png)
 
@@ -26,7 +33,18 @@ Here are some images from the training set (all digits are centered to the image
 ![image](https://user-images.githubusercontent.com/94204361/176939471-1b1827f8-d211-41bf-a597-6463c4ccc45a.png)
 
 
-- [**Change the model for a transfer learning**] - TBD
+- [**Change the model for a transfer learning**] - INCEPTION V3 150x150x3
+
+All shifted images are correctly classified (there are just a few examples ~30 images)
+
+![image](https://user-images.githubusercontent.com/94204361/177025137-a616411d-bae7-4742-ba1b-1b5b2b74eef9.png)
+![image](https://user-images.githubusercontent.com/94204361/177025153-e56df60b-d88d-43fb-8517-d57565be1a43.png)
+
+The problem is when retesting the training set of images. The model fails when classifying some of them ...
+(This also happens in the other models)
+
+![image](https://user-images.githubusercontent.com/94204361/177025477-3db529b5-1c15-48e2-ad2c-80f722fc9ad7.png)
+![image](https://user-images.githubusercontent.com/94204361/177025484-eb5ba4e2-5962-4506-ba85-e07da6c9fa3d.png)
 
 
 ### Conclusion.
