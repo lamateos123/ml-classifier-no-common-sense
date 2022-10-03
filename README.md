@@ -1,4 +1,4 @@
-# ml-classifier-no-common-sense
+# Adding common sense to AI
 
 IF we can commensurate all data (lidars, radars, cameras, IMU, etc.) from an autonomous car in a sensor fusion logic, where images with digit '0' means GO and images with with digit '1' means STOP. Still, the autonomous car **will have a hard time figuring out cases it was not trained** and eventually fail at some point (that's why we don't have autonomous cars on the streets yet). The current ML as we know in 2022 is not ready ... for common-sense logic ... for critical decision making ... we need a higher level of intelligence.. a logic which combines Unsupervised + Supervised + Reinforcement learning - USRL
 
@@ -64,4 +64,6 @@ ML technologies are great for **non critical applications**, such as: creating a
 ## For more information read the book:
 
 ### <a href="url" target="_blank">[Adding common sense to AI: The big challenge in machine learning for critical decision making](https://www.amazon.com/dp/B0BGD1MKJJ)</a>
+
+## Other Titles: <a href="url" target="_blank">[AI Artist: Machine Learning Art Critic](https://www.amazon.com/dp/B0BH436NY3/ref=sr_1_1?crid=3TB4C7B4ZHMLZ&keywords=AI+Artist%3A+Machine+Learning+Art+Critic&qid=1664775055&qu=eyJxc2MiOiIwLjk3IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=digital-text&sprefix=ai+artist+machine+learning+art+critic%2Cdigital-text%2C132&sr=1-1)</a>
 
