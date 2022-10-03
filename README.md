@@ -60,3 +60,8 @@ Images of digit zero classified as '1' (from training set)
 
 ML technologies are great for **non critical applications**, such as: creating art, making predictions and classification in housing markets, activity recognition, etc. However, ML in **critical decision appliations** must integrate a '**watchdog**' or **other parallel process** to **corroborate** a  live / death decision.
 
+
+## For more information read the book:
+
+### <a href="url" target="_blank">[Adding common sense to AI: The big challenge in machine learning for critical decision making](https://www.amazon.com/dp/B0BGD1MKJJ)</a>
+
