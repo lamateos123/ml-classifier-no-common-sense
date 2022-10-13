@@ -65,5 +65,5 @@ ML technologies are great for **non critical applications**, such as: creating a
 
 ### <a href="url" target="_blank">[Adding common sense to AI: The big challenge in machine learning for critical decision making](https://www.amazon.com/dp/B0BGD1MKJJ)</a>
 
-## Other Titles: <a href="url" target="_blank">[AI Artist: Machine Learning Art Critic](https://www.amazon.com/dp/B0BH436NY3/ref=sr_1_1?crid=3TB4C7B4ZHMLZ&keywords=AI+Artist%3A+Machine+Learning+Art+Critic&qid=1664775055&qu=eyJxc2MiOiIwLjk3IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=digital-text&sprefix=ai+artist+machine+learning+art+critic%2Cdigital-text%2C132&sr=1-1)</a>
+## Other Titles: <a href="url" target="_blank">[Find Your Art Style with Machine Learning: AI Artist](https://www.amazon.com/dp/B0BHZZTWFN)</a>
 
